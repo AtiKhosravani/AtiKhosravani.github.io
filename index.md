@@ -7,16 +7,13 @@ I'm a hard work, energetic and motivated, responsible and committed, positive-mi
 person that loves computer and artificial intelligence fields and I am looking for a way to learn and
 work in this field.
 
-</br>
 
 Contact me
 ------
 - **Email:** Atefeh_7300@yahoo.com
-- **Phone Number:** 09370949830
 - **Skype:** Ati.1373
 - **Github:** [Atikhosravani](Atikhosravani.github.io)
 
-</br>
 
 Education
 ---------
@@ -24,7 +21,6 @@ Education
 
 **Bachelor's degree of Information Technology**, Lorestan university (2013-2017)
 
-</br>
 
 Experience
 ---------
@@ -40,7 +36,6 @@ Experience
 
 - SEO and Content Production Expert
 
-</br>
 
 Skills
 ------
@@ -48,20 +43,17 @@ Skills
 
 **Learning:** Python, Data Science
 
-</br>
 
 Languages
 ------
 **English:** Professional Working Proficiency
 
-</br>
 
 Projects
 --------
 **University project:** Warehousing and sales system using Entity FrameWork, WPF,
 Crystal Report
 
-</br>
 
 INTERESTS
 ------
